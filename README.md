@@ -1,5 +1,21 @@
 # server-deployment-practice
 
+[Heroku-URL-Branch:main](https://esam-server-deploy-prod.herokuapp.com/)
+[Heroku-URL-Branch:main/data](https://esam-server-deploy-prod.herokuapp.com/data)
+[Heroku-URL-Branch:main/test](https://esam-server-deploy-prod.herokuapp.com/test)
+[Heroku-URL-Branch:main/500handling](https://esam-server-deploy-prod.herokuapp.com/bad)
+[Heroku-URL-Branch:main/404handling](https://esam-server-deploy-prod.herokuapp.com/abc)
+
+
+[Heroku-URL-Branch:dev](https://esam-server-deploy-dev.herokuapp.com/)
+
+[Github-actions-URL](https://github.com/Esam-Ankir/server-deployment-practice/actions)
+
+[pull-request-URL](https://github.com/Esam-Ankir/server-deployment-practice/pulls?q=is%3Apr+is%3Aclosed)
+
+[screenshots](/assets/screenshots.md)
+
+
 
 # LAB: Node Ecosystem, CI, CD
 
