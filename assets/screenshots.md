@@ -1,9 +1,10 @@
 ## here is a screenshots for lab solution:
 
 
-![img](./assets/Capture0.PNG)
-![img](./assets/Capture1.PNG)
-![img](./assets/Capture2.PNG)
-![img](./assets/Capture3.PNG)
-![img](./assets/Capture4.PNG)
-![img](./assets/Capture5.PNG)
+![img](Capture0.PNG)
+![img](Capture1.PNG)
+![img](Capture2.PNG)
+![img](Capture3.PNG)
+![img](Capture4.PNG)
+![img](Capture5.PNG)
+
